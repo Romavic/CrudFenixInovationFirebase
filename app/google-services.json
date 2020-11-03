@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449497355165",
+    "firebase_url": "https://fenixinovationcrud.firebaseio.com",
+    "project_id": "fenixinovationcrud",
+    "storage_bucket": "fenixinovationcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449497355165:android:c41f4e412d97f8c81e9574",
+        "android_client_info": {
+          "package_name": "ao.crud.fenixinovation.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449497355165-2df4tn62cjafakjk1v4d4oqhr2d4n8nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnY4Y5jKXbshR8AwDEqCqzqzsCQI3StU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449497355165-2df4tn62cjafakjk1v4d4oqhr2d4n8nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
